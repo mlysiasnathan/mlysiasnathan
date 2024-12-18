@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is LYSIAS NATHAN ... and I'm a Full Stack Dev, (web AND mobile apps)</h2>
+<h2 align="left">Hi 👋! My name is LYSIAS NATHAN ... known as LYSNBrain DevTeam</h2>
+
+<h6 align="center">As full Stuck Dev, I'm a passionate web and mobile developer with a knack for creating seamless and user-friendly applications. With expertise in both front-end and back-end technologies, I enjoy building robust solutions that solve real-world problems. Explore <a href='https://lysnbrain-resume.web.app/#portfolio' style="color: blue"> my projects to see my work in action </a>, and feel free to connect with me for collaboration or inquiries!</h6>
+
 
 ###
 
