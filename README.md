@@ -1,6 +1,10 @@
 <h2 align="left">Hi 👋! My name is LYSIAS NATHAN ... known as LYSNBrain DevTeam</h2>
+<img align="center"
+     src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fthepracticaldev.s3.amazonaws.com%2Fi%2Fczf56wunsqu2jkzx9yqi.gif"/>
+<hr/>
 
-<h6 align="center">As full Stuck Dev, I'm a passionate web and mobile developer with a knack for creating seamless and user-friendly applications. With expertise in both front-end and back-end technologies, I enjoy building robust solutions that solve real-world problems. Explore <a href='https://lysnbrain-resume.web.app/#portfolio' style="color: blue"> my projects to see my work in action </a>, and feel free to connect with me for collaboration or inquiries!</h6>
+<h3 align="center">As full Stuck Dev, I'm a passionate web and mobile developer with a knack for creating seamless and user-friendly applications. With expertise in both front-end and back-end technologies, I enjoy building robust solutions that solve real-world problems. Explore <a href='https://lysnbrain-resume.web.app/#portfolio' style="color: blue"> my projects to see my work in action </a>, and feel free to connect with me for collaboration or inquiries!</h3>
+<hr/>
 
 
 ###
